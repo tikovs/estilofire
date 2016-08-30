@@ -288,6 +288,9 @@ License URI:http://www.gnu.org/licenses/gpl-2.0.html
 		color:#333;
 	}
 
+	.coloredwhite{
+		color:#fbf2f2;
+	}
 	.colored{
 		color: #ff4b00;;
 	}
@@ -849,7 +852,7 @@ License URI:http://www.gnu.org/licenses/gpl-2.0.html
 	}
 	
 	#features{
-		background:#333 url(../images/parallax/3.jpg) repeat;
+		background:#10100f;
 	}
 
 

@@ -273,7 +273,7 @@ License URI:http://www.gnu.org/licenses/gpl-2.0.html
 	}
 
 	.gray1{
-		color: #CFCFCF;
+		color: #131111;
 	}
 
 	.gray2{
@@ -289,11 +289,11 @@ License URI:http://www.gnu.org/licenses/gpl-2.0.html
 	}
 
 	.colored{
-		color: #8BC3A3;
+		color: #ff4b00;;
 	}
 
 	.colored-bg{
-		background-color: #8BC3A3;
+		background-color: #ff4b00;;
 	}
 
 	.gray-border{
@@ -301,15 +301,15 @@ License URI:http://www.gnu.org/licenses/gpl-2.0.html
 	}
 
 	.colored-border{
-		border-color: #8BC3A3;
+		border-color: #ff4b00;;
 	}
 
 	.colored-border-left{
-		border-left-color: #8BC3A3;
+		border-left-color: #ff4b00;;
 	}
 
 	.colored-border-right{
-		border-right-color: #8BC3A3;
+		border-right-color: #ff4b00;;
 	}
 
 	.white-bg{ 
@@ -336,7 +336,7 @@ License URI:http://www.gnu.org/licenses/gpl-2.0.html
 
 	.arrow-down {
 		margin-top: 50px;
-		color: #8BC3A3;
+		color: #ff4b00;;
 		font-size: 55px !important;
 	}
 
@@ -424,7 +424,7 @@ License URI:http://www.gnu.org/licenses/gpl-2.0.html
 	}
 	
 	#slides .slides-container .image4{
-		background-image:url(../images/1.jpg);
+		background-image:url(../images/image_one.jpg);
 	}
 
 	.v2 .home-arrow{
@@ -564,7 +564,7 @@ License URI:http://www.gnu.org/licenses/gpl-2.0.html
 	}
 	
 	#navigation .mini-nav-button:hover{
-		color:#8BC3A3;
+		color:#ff4b00;;
 		-webkit-transition: all 0.3s;
 		-moz-transition: all 0.3s;
 		transition: all 0.3s;
@@ -606,15 +606,15 @@ License URI:http://www.gnu.org/licenses/gpl-2.0.html
 
 	.dark-nav .nav li a:hover{
 		background:#222;
-		color:#8BC3A3;
+		color:#ff4b00;
 	}
 	
 	.dark-nav .nav li.active a{
-		color:#8BC3A3;
+		color: #ff4b00;
 	}
 	
 	.dark-nav .nav li a:focus{
-		background:#8BC3A3;
+		background:#ff4b00;
 		color:#fff !important;
 	}	
 
@@ -656,7 +656,7 @@ License URI:http://www.gnu.org/licenses/gpl-2.0.html
 		content:'';
 		z-index: 1;
 		position: absolute;
-		background: #8BC3A3;		
+		background: #ff4b00;;		
 		border: none;
 		border-radius:50%;
 		top:-1px;
@@ -738,7 +738,7 @@ License URI:http://www.gnu.org/licenses/gpl-2.0.html
 		z-index: 4;
 		position: relative;
 		line-height: 60px;
-		background-color:#8BC3A3;
+		background-color:#ff4b00;;
 		border-radius:50%;
 		border:rgba(0,0,0,0.10) 5px solid;
 		-webkit-transition: all 0.3s;
@@ -819,7 +819,7 @@ License URI:http://www.gnu.org/licenses/gpl-2.0.html
 	.f-icon i{
 		font-size:3em;
 		color:#fff;
-		background:#8BC3A3;
+		background:#ff4b00;;
 		-webkit-transition: all 0.3s;
 		-moz-transition: all 0.3s;
 		transition: all 0.3s;
@@ -1004,7 +1004,7 @@ License URI:http://www.gnu.org/licenses/gpl-2.0.html
 		margin:0;
 		z-index: 3;
 		opacity:0.9;
-		background:#8BC3A3;
+		background:#ff4b00;;
 		-webkit-transition: all 0.4s;
 		-moz-transition: all 0.4s;
 		transition: all 0.4s;
@@ -1028,7 +1028,7 @@ License URI:http://www.gnu.org/licenses/gpl-2.0.html
 	}
 
 	.team-members .member-details .member-position{
-		color:#8BC3A3;
+		color:#ff4b00;;
 		font-size:13px;
 	}
 
@@ -1108,7 +1108,7 @@ License URI:http://www.gnu.org/licenses/gpl-2.0.html
 		color: white;
 		font-size:3em;
 		line-height:120px;
-		background:#8BC3A3;
+		background:#ff4b00;;
 		text-align: center;
 		width:140px;
 		height:140px;
@@ -1155,7 +1155,7 @@ License URI:http://www.gnu.org/licenses/gpl-2.0.html
 		/*width:90%;
 		max-width: 830px;*/
 		margin: 0 auto;
-		background:#405F51;
+		background:#151413;
 		padding:25px 25px 0px 25px;
 		box-shadow: 0px 1px 4px rgba(0,0,0, 0.2);
 		-moz-box-shadow: 0px 1px 4px rgba(0,0,0, 0.2);
@@ -1204,13 +1204,13 @@ License URI:http://www.gnu.org/licenses/gpl-2.0.html
 	}
 
 	.form:hover{
-		border:1px solid #8BC3A3;
+		border:1px solid #ff4b00;;
 	}
 
 	.form:focus{
 		color: white;
 		outline: none;
-		border:1px solid #8BC3A3;
+		border:1px solid #ff4b00;;
 	}
 
 	.textarea{
@@ -1239,7 +1239,7 @@ License URI:http://www.gnu.org/licenses/gpl-2.0.html
 	}
 
 	.button:hover{
-		background:#8BC3A3;
+		background:#ff4b00;;
 		color:white;
 	}
 
@@ -1251,7 +1251,7 @@ License URI:http://www.gnu.org/licenses/gpl-2.0.html
 		height: auto;
 		padding:15px;
 		color:#fff;
-		background:#8BC3A3;
+		background:#ff4b00;;
 		border:none;
 		border-radius:3px;
 		outline: none;
@@ -1308,7 +1308,7 @@ License URI:http://www.gnu.org/licenses/gpl-2.0.html
 		-moz-transition: all 0.3s;
 		transition: all 0.3s;
 		border-radius:50%;
-		background:#8BC3A3;
+		background:#ff4b00;;
 	}
 
 	#site-socials .socials a.social:hover{
@@ -1345,7 +1345,7 @@ License URI:http://www.gnu.org/licenses/gpl-2.0.html
 	}
 
 	#site-socials .top-button:hover{
-		color:#8BC3A3;
+		color:#ff4b00;;
 	}
 
 /* Footer */
@@ -1372,5 +1372,5 @@ License URI:http://www.gnu.org/licenses/gpl-2.0.html
 	}
 
 	.footer p.copyright a:hover{
-		color:#8BC3A3;
+		color:#ff4b00;;
 	}

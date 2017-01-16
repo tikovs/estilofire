@@ -155,6 +155,13 @@ License URI:http://www.gnu.org/licenses/gpl-2.0.html
 		margin:0;
 	}
 
+	.container-video{
+		width: 100%;
+		height: 950px;
+		padding:0;
+		margin:0;
+	}
+
 	.inner{
 		width:100%;
 		height: auto;
@@ -228,7 +235,7 @@ License URI:http://www.gnu.org/licenses/gpl-2.0.html
 		font-size:18px;
 		color: white;
 		font-weight: 100;
-		text-align: center;
+		text-align: justify;
 		margin:20px auto;
 		max-width: 900px;
 		line-height: 24px;
